@@ -21,7 +21,7 @@ Voice input for AI coding assistants. Speak → transcribe → agent responds. B
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USER/voice-capture.git
+git clone https://github.com/assaneonline/voice-capture.git
 cd voice-capture
 
 python3 -m venv .venv
